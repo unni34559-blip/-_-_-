@@ -33,7 +33,7 @@ Please note that this project follows a Code of Conduct. By participating, you a
 
 ## Questions?
 
-If you have questions, feel free to open an issue with the Custom template.
+If you have questions, feel free to open an issue describing your question.
 
 ---
 

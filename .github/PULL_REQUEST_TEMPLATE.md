@@ -14,9 +14,9 @@ Closes #
 
 ## Changes Made
 <!-- List the main changes made in this pull request -->
-- 
-- 
-- 
+- Added feature/fix X
+- Updated documentation for Y
+- Refactored component Z 
 
 ## Testing
 <!-- Describe how you tested your changes -->
