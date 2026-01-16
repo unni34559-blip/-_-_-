@@ -22,6 +22,7 @@ This project is configured for AL development with Dynamics 365 Business Central
 ## Project Structure
 
 - `app.json` - Application manifest file
+- `src/` - AL source code directory
 - `.gitignore` - Git ignore rules for AL projects
 
 ## Development
