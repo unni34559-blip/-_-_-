@@ -1,0 +1,20 @@
+{
+  "id": "d47a6a81-ebcf-4528-a1b3-2bcc93a187a3",
+  "name": "IS_ME_UNNI_MD_BOT",
+  "publisher": "UNNI",
+  "version": "1.0.0.0",
+  "brief": "IS_ME_UNNI_MD_BOT - AL Extension for Dynamics 365 Business Central",
+  "description": "IS_ME_UNNI_MD_BOT AL Extension",
+  "dependencies": [],
+  "platform": "19.0.0.0",
+  "application": "19.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 99999
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "9.0",
+  "target": "Cloud"
+}
