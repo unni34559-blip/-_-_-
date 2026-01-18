@@ -1,5 +1,5 @@
 {
-  "id": "12345678-1234-1234-1234-123456789012",
+  "id": "d47a6a81-ebcf-4528-a1b3-2bcc93a187a3",
   "name": "IS_ME_UNNI_MD_BOT",
   "publisher": "UNNI",
   "version": "1.0.0.0",
@@ -12,7 +12,7 @@
   "logo": "",
   "dependencies": [],
   "screenshots": [],
-  "platform": "1.0.0.0",
+  "platform": "19.0.0.0",
   "application": "19.0.0.0",
   "idRanges": [
     {
